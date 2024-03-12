@@ -1,0 +1,7 @@
+require("custom.set")
+require("custom.term")
+require("custom.remap")
+require("custom.harpoon")
+require("custom.fugitive")
+require("custom.undotree")
+require("custom.netrw")
