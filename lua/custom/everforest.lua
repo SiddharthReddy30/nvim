@@ -1,2 +1,3 @@
-vim.g.everforest_background = 'medium'
+vim.o.bg = 'light'
+vim.g.everforest_background = 'hard'
 vim.g.everforest_better_performance = 1
