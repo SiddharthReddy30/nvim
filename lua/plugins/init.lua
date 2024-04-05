@@ -7,4 +7,6 @@ return {
     },
     { "mbbill/undotree" },
     { "joe-re/sql-language-server" },
+    { "yorickpeterse/vim-paper" },
+    { "sainnhe/everforest" },
 }
